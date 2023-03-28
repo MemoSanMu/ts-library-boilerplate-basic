@@ -1,9 +1,9 @@
 /*!
  * 
- *   @hodgef/ts-library-boilerplate-basic v1.1.193
- *   https://github.com/hodgef/ts-library-boilerplate-basic
+ *   @s/ts-library-boilerplate-basic v1.0.0
+ *   https://github.com/MemoSanMu/ts-library-boilerplate-basic
  *
- *   Copyright (c) Francisco Hodge (https://github.com/hodgef) and project contributors.
+ *   Copyright (c) s and project contributors.
  *
  *   This source code is licensed under the MIT license found in the
  *   LICENSE file in the root directory of this source tree.
